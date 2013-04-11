@@ -14,6 +14,8 @@ This protocol establishes the verbs required for discovering and managing the pe
 
 Together these three protocols provide the baseline functionality required for an Agent to connect to an Environment and successfully interact with it.  Collectively, they can be referred to by the acronym SAP.  
 
+## Supplemental Protocols
+
 At this time there are two supplemental sub-protocols which are still in the early stage of being defined:
 
 ### Remote Administration:
